@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Tushar+Barik!+👋;Full+Stack+Developer+%7C+DSA+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing Animation" />
 </p>
@@ -10,57 +8,11 @@
 🎓 **4th-year Computer Science Student**  
 💻 Passionate about **MERN stack, DSA, and AI/ML**  
 🌱 Currently learning **React JS, Cloud Deployment & Data Structures**  
-⚡ Loves building creative projects that blend design & logic  
 📬 Reach me at **tusharbarik64@gmail.com**
 
 ---
 
 ## 🧰 Tech Stack  
-
-<style>
-  .tech-block {
-    border-radius: 16px;
-    padding: 2px;
-    margin: 0px auto;
-    background: linear-gradient(135deg, rgba(255, 255, 255, 0.07), rgba(0, 0, 0, 0.07));
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-    transition: all 0.4s ease;
-    border: 1.5px solid rgba(128, 128, 128, 0.3);
-  }
-  .tech-block:hover {
-    transform: scale(1.01);
-    border: 1.5px solid rgba(0, 212, 255, 0.7);
-    box-shadow: 0 0 25px rgba(0, 212, 255, 0.4);
-    background: linear-gradient(135deg, rgba(0, 212, 255, 0.08), rgba(255, 0, 255, 0.08));
-  }
-  .tech-block h4 {
-    text-align: center;
-    color: #00bcd4;
-    font-weight: 600;
-    margin-bottom: 1px;
-    font-family: "Segoe UI", sans-serif;
-  }
-  .tech-block p a img {
-    margin: 0 5px;
-    transition: transform 0.3s ease, filter 0.3s ease;
-  }
-  .tech-block p a img:hover {
-    transform: scale(1.2);
-    filter: drop-shadow(0 0 10px rgba(0, 212, 255, 0.7));
-  }
-  @media (prefers-color-scheme: light) {
-    .tech-block {
-      background: linear-gradient(135deg, rgba(255, 255, 255, 0.8), rgba(245, 245, 245, 0.9));
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
-      border: 1.5px solid rgba(0, 0, 0, 0.08);
-    }
-    .tech-block:hover {
-      border: 1.5px solid rgba(0, 0, 0, 0.4);
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-    }
-  }
-</style>
-
 <div align="center" class="tech-block">
   <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5" /></a>
@@ -100,14 +52,11 @@
 
 ---
 
-### 🧠 Coding Profiles  
+### 🧠 Coding Profiles
 
-| Platform | Stats |
-|-----------|-------|
-| **LeetCode** | [![LeetCode Stats](https://leetcard.jacoblin.cool/Tushar_barik-06?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/Tushar_barik-06) |
-| **Codeforces** | [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Tushar_barik-06&theme=tokyonight)](https://codeforces.com/profile/YOURUSERNAME) |
-
----
+<a href="https://leetcode.com/Tushar_barik-06" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Tushar_barik-06?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" height="150"/>
+</a>
 
 ### ✨ Connect With Me  
 <p align="center">
