@@ -5,6 +5,7 @@
 ---
 
 ### 🌌 About Me  
+
 🎓 **4th-year Computer Science Student**  
 💻 Passionate about **MERN stack, DSA, and AI/ML**  
 🌱 Currently learning **React JS, Cloud Deployment & Data Structures**  
@@ -54,7 +55,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/Tushar_barik-06" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Tushar_barik-06?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" height="180"/>
+    <img src="https://leetcard.jacoblin.cool/Tushar_barik-06?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" height="60%"/>
   </a>
 
 ---
