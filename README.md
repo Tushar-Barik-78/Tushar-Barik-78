@@ -70,6 +70,18 @@
 
 ---
 
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tushar-Barik-78&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tushar-Barik-78&label=Profile+views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
 ### 💖 Thanks for Visiting My Profile  
 
 <p align="center">
