@@ -41,13 +41,28 @@
 ### 📈 GitHub Analytics  
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tushar-Barik-78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Barik-78&theme=tokyonight&hide_border=true&background=0D1117" />
+  <!-- GitHub Stats -->
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Tushar-Barik-78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
+    <img alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=Tushar-Barik-78&show_icons=true&theme=default" />
+  </picture>
+  <!-- Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tushar-Barik-78&layout=compact&theme=tokyonight&langs_count=10">
+    <img alt="Top Languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tushar-Barik-78&layout=compact&theme=default" />
+  </picture>
+  <!-- Streak Stats (This one is working) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=Tushar-Barik-78&theme=dark&hide_border=false">
+    <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=Tushar-Barik-78&theme=default&hide_border=false" />
+  </picture>
+  
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-Barik-78&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
+
 
 ---
 
@@ -73,7 +88,7 @@
 ### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tushar-Barik-78&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tushar-Barik-78&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
