@@ -43,12 +43,12 @@
 <p align="center">
   <!-- GitHub Stats -->
    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Tushar-Barik-78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
+    <source width='49%' media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Tushar-Barik-78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
     <img alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=Tushar-Barik-78&show_icons=true&theme=default" />
   </picture>
   <!-- Top Languages -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tushar-Barik-78&layout=compact&theme=tokyonight&langs_count=10">
+    <source width='49%' media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tushar-Barik-78&layout=compact&theme=tokyonight&langs_count=10">
     <img alt="Top Languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tushar-Barik-78&layout=compact&theme=default" />
   </picture>
   <!-- Streak Stats (This one is working) -->
